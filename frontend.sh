@@ -1,5 +1,8 @@
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f39cef03e297663af7ca0c54e0d68e334aaf11cd
 #!/bin/bash
 
 LOGS_FOLDER="/var/log/expense"
